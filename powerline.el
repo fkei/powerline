@@ -1,4 +1,4 @@
-;;; powerline.el -- The ultimate statusline utility for emacs.
+;;; powerline.el --- The ultimate statusline utility for emacs.
 ;;
 ;; Version: 0.0.1
 ;; URL: http://www.emacswiki.org/emacs/PowerLine
