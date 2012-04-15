@@ -1,4 +1,7 @@
-;;; powerline.el
+;;; powerline.el -- The ultimate statusline utility for emacs.
+;;
+;; Version: 0.0.1
+;; URL: http://www.emacswiki.org/emacs/PowerLine
 
 (defvar powerline-color1)
 (defvar powerline-color2)
@@ -469,3 +472,5 @@ install the memoized function over the original function."
                              (powerline-make-text      "  "    nil  )))))
 
 (provide 'powerline)
+
+;;; powerline.el ends here
