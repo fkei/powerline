@@ -1,5 +1,6 @@
 ;;; powerline.el --- The ultimate statusline utility for emacs.
 ;;
+;; Author: Nicolas P. Rougier
 ;; Version: 0.0.1
 ;; URL: http://www.emacswiki.org/emacs/PowerLine
 
